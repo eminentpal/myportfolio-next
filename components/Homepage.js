@@ -12,13 +12,13 @@ const Homepage = () => {
           <p> Hello,</p>
           <p> I'm Ezie .I,</p>
           <p>
-            {" "}
+          
             I am a Software Developer, <br /> Blogger & IT Consultant.
           </p>
 
           <a href="https://wa.me/2348140035918">
-            {" "}
-            <button className="hire-btn">Hire Me</button>{" "}
+        
+            <button className="hire-btn">Hire Me</button>
           </a>
 
           <button className="down-cv"> Download CV</button>

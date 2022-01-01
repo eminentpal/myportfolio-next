@@ -1,4 +1,4 @@
-import React from "react";
+
 
 const Footer = () => {
   return (
@@ -24,7 +24,6 @@ const Footer = () => {
         </div>
         {/* <!--Copyright--> */}
         <p className="copyright">
-          {" "}
           Copyright <span className="fa fa-copyright"></span> 2022 | Ezie
           Innocent
         </p>

@@ -1,5 +1,5 @@
 import React, { Fragment, useRef } from "react";
-import { Link } from "next/link";
+import Link from "next/link";
 import { links } from "./Data";
 
 const Header = () => {
@@ -22,9 +22,9 @@ const Header = () => {
   return (
     <>
       <nav className="sticky">
-        <a href="/">
+        <Link href="/">
           <h1 className="logo"> Ezie Innocent</h1>
-        </a>
+        </Link>
         <div className="desktopnav">
           {links.map((link) => {
             return (
