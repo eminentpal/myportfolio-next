@@ -10,7 +10,7 @@ const Homepage = () => {
         <Header />
         <div className="text-container">
           <p> Hello,</p>
-          <p> I'm Ezie .I,</p>
+          <p> I&apos;m Ezie .I,</p>
           <p>
           
             I am a Software Developer, <br /> Blogger & IT Consultant.

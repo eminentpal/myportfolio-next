@@ -6,7 +6,7 @@ const Footer = () => {
       {/* <!---Footer--> */}
       <footer>
         <p>Ezie Innocent Portfolio</p>
-        <p> Client's satisfaction is our primary goal.</p>
+        <p> Client&apos;s satisfaction is our primary goal.</p>
         {/* <!---social--> */}
         <div className="social-icons">
           <a href="https://facebook.com/innocentchukwudi.ezie">
