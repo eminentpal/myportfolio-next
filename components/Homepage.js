@@ -18,12 +18,12 @@ const Homepage = () => {
 
           <a href="https://wa.me/2348140035918">
             {" "}
-            <button class="hire-btn">Hire Me</button>{" "}
+            <button className="hire-btn">Hire Me</button>{" "}
           </a>
 
-          <button class="down-cv"> Download CV</button>
+          <button className="down-cv"> Download CV</button>
         </div>
-        <img src="/images/me.png" class="model" alt="model" />
+        <img src="/images/me.png" className="model" alt="model" />
       </section>
       <Body />
       <Footer />

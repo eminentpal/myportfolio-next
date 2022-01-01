@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
         <script
           src="https://kit.fontawesome.com/c8e4d183c2.js"
-          crossorigin="anonymous"
+          crossOrigin="anonymous"
         ></script>
         <link
           href="https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap"
